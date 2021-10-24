@@ -5,7 +5,7 @@ url: "https://doug.scot" # the base hostname & protocol for your site, e.g. http
 
 # Author
 author-name:    Doug Kelly
-author-image:   1.jpg
+author-image:   me.png
 author-job:     Automation/AWS/Devops Consultant
 author-email:   mail@doug.scot # Add your email for contant form.
 author-twitter: dougkelly_ # Add your twitter account
