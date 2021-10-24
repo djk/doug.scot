@@ -7,9 +7,12 @@ tags: personal
 categories: guide
 ---
 
+Testing out this blog thing. 
+
 # Hello! 
 
-Testing out this blog thing. 
+Ny name is Doug and I the last time I wrote a blog post was genuinely twenty years ago.
+
 
 
 
