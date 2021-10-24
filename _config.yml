@@ -1,4 +1,4 @@
-title: A Doug's life.
+title: A Doug's Life.
 description: Just a place for me to write things that other people may find useful or enjoyable. Occasional venting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://doug.scot" # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,7 +23,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: mrdougkelly # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: doug-scot
 
 # Build settings
 markdown: kramdown
