@@ -33,10 +33,10 @@ layout: default
           <li class="c-social__item"><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><div data-icon='ei-sc-twitter' data-size='s'></div></a></li>
         {% else %}
         {% endif %}
-	{% if site.social-mastodon %}
-	  <li class="c-social__item"><a rel="me" href="https://mastodon.scot/{{ site.social-mastodon }}" target="_blank"><div data-icon='ei-sc-mastodon' data-size='s'></div></a></li>
-	{% else %}
-	{% endif %}
+	      {% if site.social-mastodon %}
+	        <li class="c-social__item"><a rel="me" href="https://mastodon.scot/{{ site.social-mastodon }}" target="_blank"><div data-icon='ei-sc-mastodon' data-size='s'></div></a></li>
+	      {% else %}
+	      {% endif %}
         {% if site.social-facebook %}
           <li class="c-social__item"><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><div data-icon='ei-sc-facebook' data-size='s'></div></a></li>
         {% else %}
